@@ -5,6 +5,13 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
+**Sunday, March 24th, 23:00 (strict): everybody must have**:
+
+- implemented the project, so that all tests are green
+- submitted a PR on GitHub
+- have the structure of the project and the role of all classes in mind, to be able to quickly extend it with a new functionality
+- be ready to execute the project, know where to find the output files
+- submitted [this Google form]()
 
 ## General links
 
@@ -17,13 +24,21 @@ This is where you will find lecture notes, slides and some of the examples prese
 * [Here](https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2019-Chill) is the repo for the first assignment. Make sur to **fork** it, before cloning your fork on your machine.
 * [Here](https://www.youtube.com/playlist?list=PLfKkysTy70QaN-uez0K4UpSpVUbt8ETpk) is  the Youtube playlist that presents the first assignment material.
 
-## Week 2: Java IO part 1(intro + buffered IOs)
+## ~~Week 2: Java IO part 1(intro + buffered IOs)~~
 
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/01-JavaIOs.pdf) are the slides
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/lectures/01-Lecture1-JavaIOs.md) are the lecture notes
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/tree/master/examples/01-BufferedIOBenchmark/BufferedIOBenchmark) is the project used to present the impact of buffering on performance
 
-## Week 3
+## Week 3: Java IO part 2 (decorator pattern + encodings)
+
+* Same slides and lecture notes as in week 2
+* [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/tree/master/examples/02-FileIOExample/FileIOExample) is the example for manipulations of files, streams and adapters
+
+- [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/tree/master/examples/03-CharacterIODemo/CharacterIODemo) is the example for character encodings
+- [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019-Labo-Java-IO) is the repo for the lab, which we will work on during weeks 3 and 4
+
+
 
 ## Week 4
 
