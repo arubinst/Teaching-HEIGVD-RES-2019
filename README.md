@@ -5,13 +5,6 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-**Sunday, March 24th, 23:00 (strict): everybody must have**:
-
-- implemented the project, so that all tests are green
-- submitted a PR on GitHub
-- have the structure of the project and the role of all classes in mind, to be able to quickly extend it with a new functionality
-- be ready to execute the project, know where to find the output files
-- submitted [this Google form](https://goo.gl/forms/TfOiBXp6kq5qqvKc2)
 
 ## General links
 
@@ -21,7 +14,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## ~~Week 1: introduction~~
 
-* [Here](https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2019-Chill) is the repo for the first assignment. Make sur to **fork** it, before cloning your fork on your machine.
+* [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019-Chill) is the repo for the first assignment. Make sur to **fork** it, before cloning your fork on your machine.
 * [Here](https://www.youtube.com/playlist?list=PLfKkysTy70QaN-uez0K4UpSpVUbt8ETpk) is  the Youtube playlist that presents the first assignment material.
 
 ## ~~Week 2: Java IO part 1(intro + buffered IOs)~~
@@ -40,7 +33,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 
 
-## Week 4: TCP programming
+## ~~Week 4: TCP programming~~
 
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/02-TcpProgramming.pdf) are the slides
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/tree/master/examples/05-DumbHttpClient/DumbHttpClient) is an example of a simple TCP client (which does NOT implement the HTTP spec)
@@ -50,7 +43,15 @@ This is where you will find lecture notes, slides and some of the examples prese
 * **Make sure that you have a working Wireshark on your machine!**
 
 
-## Week 5
+## Week 5: introduction to Docker
+
+* [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/03-Docker.pdf) are the slides
+* [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019-Exercise-Calculator) is the repo for the protocol design exercise
+* [Here](https://github.com/arubinst/Teaching-Docker-SimpleJavaServer) is the repo with the TCP server in Docker demo
+<!-- * [Here]() is the link for the "sanity check" Google Form  -->
+
+
+
 
 ## Week 6
 
@@ -70,3 +71,9 @@ This is where you will find lecture notes, slides and some of the examples prese
   - be able to explain what is project Lombok
   - filled out this Google [form](https://goo.gl/forms/Ulmj9DWpV4hh8VqV2).
 
+- ~~**Sunday, March 24th, 23:00 (strict): everybody must have**:~~
+  - implemented the project, so that all tests are green
+  - submitted a PR on GitHub
+  - have the structure of the project and the role of all classes in mind, to be able to quickly extend it with a new functionality
+  - be ready to execute the project, know where to find the output files
+  - submitted [this Google form](https://goo.gl/forms/TfOiBXp6kq5qqvKc2)
