@@ -16,7 +16,7 @@ Tuesday, April 2nd 2019
    * What is Dockerhub?
    * Be able to explain what happens when you type docker run -it —rm alpine /bin/sh. Be able to explain the meaning of every argument in this command.
    * Be able to explain how port mapping works in Docker. Be able to explain how to use the -p xx:yyparameter when using docker run.
-* Have been able to run the demo 1 on one's laptop during the week.
+* Have been able to run the [demo 1](https://github.com/arubinst/Teaching-Docker-SimpleJavaServer) on one's laptop during the week.
 * Be able to perform the following operations
    * Write a Dockerfile to define an image that contains a TCP server written in Java
    * Run multiple containers from the same image
