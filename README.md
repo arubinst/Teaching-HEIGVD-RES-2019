@@ -5,7 +5,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-Tuesday, April 2nd 2019
+Wednesday, April 3rd 2019
 
 * Be ready for a challenging week
 * Understand and be able to explain the following concepts:
