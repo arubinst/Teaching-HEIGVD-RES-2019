@@ -5,24 +5,6 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-Wednesday, April 3rd 2019
-
-* Be ready for a challenging week
-* Understand and be able to explain the following concepts:
-   * What is Docker? How are containers different from virtual machines?
-   * What is the difference between the Docker CLI and the Docker engine? Why can we say that Docker is based on a client-server architecture?
-   * What is the difference between a Docker image and a Docker container?
-   * How does one create a Docker image? How does one create a Docker container?
-   * What is Dockerhub?
-   * Be able to explain what happens when you type docker run -it —rm alpine /bin/sh. Be able to explain the meaning of every argument in this command.
-   * Be able to explain how port mapping works in Docker. Be able to explain how to use the -p xx:yyparameter when using docker run.
-* Have been able to run the [demo 1](https://github.com/arubinst/Teaching-Docker-SimpleJavaServer) on one's laptop during the week.
-* Be able to perform the following operations
-   * Write a Dockerfile to define an image that contains a TCP server written in Java
-   * Run multiple containers from the same image
-   * Obtain the IP address assigned to the each of these containers
-   * Send requests to the TCP server running in the containers, with ncor telnet
-   * Log into a running container and explore the file system
 
 ## General links
 
@@ -61,7 +43,7 @@ Wednesday, April 3rd 2019
 * **Make sure that you have a working Wireshark on your machine!**
 
 
-## Week 5: introduction to Docker
+## ~~Week 5: introduction to Docker~~
 
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/03-Docker.pdf) are the slides
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019-Exercise-Calculator) is the repo for the protocol design exercise
@@ -71,7 +53,9 @@ Wednesday, April 3rd 2019
 
 
 
-## Week 6
+## Week 6 : TCP programming
+
+[Here](<https://github.com/arubinst/Teaching-HEIGVD-RES-2019-Challenge-2>) is the link to the repo for the challenge 2
 
 ## Week 7
 
@@ -95,3 +79,22 @@ Wednesday, April 3rd 2019
   - have the structure of the project and the role of all classes in mind, to be able to quickly extend it with a new functionality
   - be ready to execute the project, know where to find the output files
   - submitted [this Google form](https://goo.gl/forms/TfOiBXp6kq5qqvKc2)
+
+~~**Wednesday, April 3rd 2019**~~
+
+* Be ready for a challenging week
+* Understand and be able to explain the following concepts:
+   * What is Docker? How are containers different from virtual machines?
+   * What is the difference between the Docker CLI and the Docker engine? Why can we say that Docker is based on a client-server architecture?
+   * What is the difference between a Docker image and a Docker container?
+   * How does one create a Docker image? How does one create a Docker container?
+   * What is Dockerhub?
+   * Be able to explain what happens when you type docker run -it —rm alpine /bin/sh. Be able to explain the meaning of every argument in this command.
+   * Be able to explain how port mapping works in Docker. Be able to explain how to use the -p xx:yyparameter when using docker run.
+* Have been able to run the [demo 1](https://github.com/arubinst/Teaching-Docker-SimpleJavaServer) on one's laptop during the week.
+* Be able to perform the following operations
+   * Write a Dockerfile to define an image that contains a TCP server written in Java
+   * Run multiple containers from the same image
+   * Obtain the IP address assigned to the each of these containers
+   * Send requests to the TCP server running in the containers, with ncor telnet
+   * Log into a running container and explore the file system
