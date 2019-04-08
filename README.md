@@ -5,6 +5,12 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
+* Tuesday, April 30th
+   * Mid-term written test (everything including SMTP)
+* Tuesday, April 30th and Wednesday, May 1st
+   * Have completed the SMTP lab, schedule a demo slot and be ready to do a demo (we will pick random groups, as time permits)
+   * Have filled out [this form]().
+
 
 ## General links
 
@@ -51,13 +57,30 @@ This is where you will find lecture notes, slides and some of the examples prese
 <!-- * [Here]() is the link for the "sanity check" Google Form  -->
 
 
-
-
-## Week 6 : TCP programming
+## ~~Week 6 : TCP programming~~
 
 [Here](<https://github.com/arubinst/Teaching-HEIGVD-RES-2019-Challenge-2>) is the link to the repo for the challenge 2
 
-## Week 7
+## Week 7 : SMTP
+
+* [Here] (https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/04-SMTP.pdf) are the slides
+* [Here] (https://github.com/arubinst/Teaching-HEIGVD-RES-2019-Labo-SMTP) is the repo for the lab
+
+## Week 8
+
+## Week 9
+
+## Week 10
+
+## Week 11
+
+## Week 12
+
+## Week 13
+
+## Week 14
+
+
 
 ## Past deadlines
 
