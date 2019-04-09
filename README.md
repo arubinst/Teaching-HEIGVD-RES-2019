@@ -9,7 +9,7 @@ This is where you will find lecture notes, slides and some of the examples prese
    * Mid-term written test (everything including SMTP)
 * Tuesday, April 30th and Wednesday, May 1st
    * Have completed the SMTP lab, schedule a demo slot and be ready to do a demo (we will pick random groups, as time permits)
-   * Have filled out [this form]().
+   * Have filled out [this form](https://forms.gle/FiFTcsNJnvQxhCkK8).
 
 
 ## General links
