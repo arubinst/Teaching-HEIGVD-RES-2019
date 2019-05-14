@@ -5,11 +5,8 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-* Tuesday, April 30th
-   * Mid-term written test (everything including SMTP)
-* Tuesday, April 30th and Wednesday, May 1st
-   * Have completed the SMTP lab, schedule a demo slot and be ready to do a demo (we will pick random groups, as time permits)
-   * Have filled out [this form](https://forms.gle/FiFTcsNJnvQxhCkK8).
+- Wednesday, May 22th: be able to write a simple HTTP client (pick your tools)
+- Wednesday, May 29th: be able to write a simple HTTP server (pick your tools)
 
 
 ## General links
@@ -127,3 +124,10 @@ This is where you will find lecture notes, slides and some of the examples prese
    * Obtain the IP address assigned to the each of these containers
    * Send requests to the TCP server running in the containers, with ncor telnet
    * Log into a running container and explore the file system
+
+- ~~Tuesday, April 30th~~
+   * Mid-term written test (everything including SMTP)
+
+- ~~Tuesday, April 30th and Wednesday, May 1st~~
+   * Have completed the SMTP lab, schedule a demo slot and be ready to do a demo (we will pick random groups, as time permits)
+   * Have filled out [this form](https://forms.gle/FiFTcsNJnvQxhCkK8).
