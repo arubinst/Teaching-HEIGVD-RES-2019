@@ -57,31 +57,32 @@ This is where you will find lecture notes, slides and some of the examples prese
 <!-- * [Here]() is the link for the "sanity check" Google Form  -->
 
 
-## ~~Week 6 : TCP programming~~
+## ~~Week 6: TCP programming~~
 
 [Here](<https://github.com/arubinst/Teaching-HEIGVD-RES-2019-Challenge-2>) is the link to the repo for the challenge 2
 
-## ~~Week 7 : SMTP~~
+## ~~Week 7: SMTP~~
 
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/04-SMTP.pdf) are the slides
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019-Labo-SMTP) is the repo for the lab
 
-## ~~Week 8 : SMTP Lab~~
+## ~~Week 8: SMTP Lab~~
 
-## ~~Week 9 : SMTP Lab~~
+## ~~Week 9: SMTP Lab~~
 
-## ~~Week 10 : Mid term test~~
+## ~~Week 10: Mid term test~~
 
-## ~~Week 11 : Absence maladie~~
+## ~~Week 11: Absence maladie~~
 
-## Week 12 : UDP
+## Week 12: UDP + HTTP (protocol)
 
-* [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/05-UdpProgramming.pdf) are the slides
-* [Here](https://github.com/arubinst/Teaching-Docker-UDP-sensors) is a link to the "thermometer repo"
-* [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019-Labo-SMTP) is the repo for the lab
+* [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/05-UdpProgramming.pdf) are the slides for UDP
+* [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/06-HTTPProtocol.pdf) are the slides for HTTP
+* [Here](https://github.com/arubinst/Teaching-Docker-UDP-sensors) is a link to the "thermometer repo" (UDP)
+* [Guidelines](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/lectures/http-in-practice.pdf) for practicing HTTP before the next challenge(s)
 
 
-## Week 13
+## Week 13: HTTP (protocol)
 
 ## Week 14
 
