@@ -71,7 +71,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## ~~Week 11: Absence maladie~~
 
-## Week 12: UDP + HTTP (protocol)
+## ~~Week 12: UDP + HTTP (protocol)~~
 
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/05-UdpProgramming.pdf) are the slides for UDP
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/06-HTTPProtocol.pdf) are the slides for HTTP
@@ -79,7 +79,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 * [Guidelines](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/lectures/http-in-practice.pdf) for practicing HTTP before the next challenge(s)
 
 
-## ~~Week 13: HTTP (protocol)~~
+## Week 13: HTTP (protocol)
 
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/06-HTTPProtocol.pdf) are the slides from last week, updated with the Host header description
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019-Labo-HTTPInfra) is the repo for the HTTP infra lab. The webcasts have been added to the RES 2019 playlist.
