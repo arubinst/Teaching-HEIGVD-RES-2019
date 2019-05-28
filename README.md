@@ -5,8 +5,9 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-- Wednesday, May 22th: be able to write a simple HTTP client (pick your tools)
+
 - Wednesday, May 29th: be able to write a simple HTTP server (pick your tools)
+- Wednesday, June 12th 23:00: have completed the HTTP infra lab (Google form to follow)
 
 
 ## General links
@@ -79,30 +80,38 @@ This is where you will find lecture notes, slides and some of the examples prese
 * [Guidelines](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/lectures/http-in-practice.pdf) for practicing HTTP before the next challenge(s)
 
 
-## Week 13: HTTP (protocol)
+## ~~Week 13: HTTP (protocol)~~
 
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/06-HTTPProtocol.pdf) are the slides from last week, updated with the Host header description
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019-Labo-HTTPInfra) is the repo for the HTTP infra lab. The webcasts have been added to the RES 2019 playlist.
 
-## Week 14
+## Week 14: HTTP (infrastructure)
 
+* [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/07-WebInfrastructures.pdf) are the slides
+
+
+## Week 15: HTTP (infrastructure)
 
 
 ## Past deadlines
 
-- ~~**Sunday, March 3rd: everybody must have**:~~
+~~**Sunday, March 3rd: everybody must have**:~~
+
   - setup GitHub (with SSH), forked and cloned the "chill" project
   - setup maven and been able to build "chill" on the command line
   - setup IDEA (with Lombok project)
   - either successfully added one beer (with a unit test and a production class) and submitted a PR or filed an issue in the upstream server to precisely describe what has not worked
-- ~~**Sunday, March 1010, 23:00 (strict): everybody must have**:~~
+
+~~**Sunday, March 1010, 23:00 (strict): everybody must have**:~~
+
   - added at least 3 beers, with tests, and submitted at least 3 PRs (with a green light on GitHub)
   - added enough beers and submitted enough PRs to really master the GitHub workflow
   - be able to explain what is maven and how to run it from the command line
   - be able to explain what is project Lombok
   - filled out this Google [form](https://goo.gl/forms/Ulmj9DWpV4hh8VqV2).
 
-- ~~**Sunday, March 24th, 23:00 (strict): everybody must have**:~~
+~~**Sunday, March 24th, 23:00 (strict): everybody must have**:~~
+
   - implemented the project, so that all tests are green
   - submitted a PR on GitHub
   - have the structure of the project and the role of all classes in mind, to be able to quickly extend it with a new functionality
@@ -128,9 +137,15 @@ This is where you will find lecture notes, slides and some of the examples prese
    * Send requests to the TCP server running in the containers, with ncor telnet
    * Log into a running container and explore the file system
 
-- ~~Tuesday, April 30th~~
+~~Tuesday, April 30th~~
+
    * Mid-term written test (everything including SMTP)
 
-- ~~Tuesday, April 30th and Wednesday, May 1st~~
+~~Tuesday, April 30th and Wednesday, May 1st~~
+
    * Have completed the SMTP lab, schedule a demo slot and be ready to do a demo (we will pick random groups, as time permits)
    * Have filled out [this form](https://forms.gle/FiFTcsNJnvQxhCkK8).
+ 
+~~**Wednesday, May 22th:**~~
+
+* be able to write a simple HTTP client (pick your tools)~~
