@@ -5,9 +5,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-
-- Wednesday, May 29th: be able to write a simple HTTP server (pick your tools)
-- Wednesday, June 12th 23:00: have completed the HTTP infra lab (Google form to follow)
+- Sunday, June 16th 23:00: have completed the HTTP infra lab (Google form to follow)
 
 
 ## General links
@@ -102,7 +100,7 @@ This is where you will find lecture notes, slides and some of the examples prese
   - setup IDEA (with Lombok project)
   - either successfully added one beer (with a unit test and a production class) and submitted a PR or filed an issue in the upstream server to precisely describe what has not worked
 
-~~**Sunday, March 1010, 23:00 (strict): everybody must have**:~~
+~~**Sunday, March 10, 23:00 (strict): everybody must have**:~~
 
   - added at least 3 beers, with tests, and submitted at least 3 PRs (with a green light on GitHub)
   - added enough beers and submitted enough PRs to really master the GitHub workflow
@@ -149,3 +147,8 @@ This is where you will find lecture notes, slides and some of the examples prese
 ~~**Wednesday, May 22th:**~~
 
 * be able to write a simple HTTP client (pick your tools)~~
+
+
+~~**Wednesday, May 29th:**~~ 
+
+* be able to write a simple HTTP server (pick your tools)
