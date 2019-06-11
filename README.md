@@ -83,13 +83,15 @@ This is where you will find lecture notes, slides and some of the examples prese
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/06-HTTPProtocol.pdf) are the slides from last week, updated with the Host header description
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019-Labo-HTTPInfra) is the repo for the HTTP infra lab. The webcasts have been added to the RES 2019 playlist.
 
-## Week 14: HTTP (infrastructure)
+## ~~Week 14: HTTP (infrastructure)~~
 
 * [Here](https://github.com/arubinst/Teaching-HEIGVD-RES-2019/blob/master/slides/07-WebInfrastructures.pdf) are the slides
 
 
-## Week 15: HTTP (infrastructure)
+## ~~Week 15: HTTP (infrastructure)~~
 
+
+## Week 16: Finish the HTTP infra lab (deadline on Sunday)
 
 ## Past deadlines
 
