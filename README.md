@@ -5,7 +5,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-- Sunday, June 16th 23:00: have completed the HTTP infra lab (Google form to follow)
+- Sunday, June 16th 23:00: have completed the HTTP infra lab (Google form is [here](https://forms.gle/NeBLEn5AD68UM7BN6))
 
 
 ## General links
